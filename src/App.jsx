@@ -8,9 +8,6 @@ function App() {
   return (
     <>
       <GrandParent></GrandParent>
-      <Parent></Parent>
-      <GrandChild></GrandChild>
-      <Child></Child>
     </>
   )
 }
